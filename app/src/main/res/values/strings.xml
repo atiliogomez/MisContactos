@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="nombre">Atilio</string>
+    <string name="telefono">099862363</string>
+    <string name="email">atiliogomez@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+
+
+
+
+
+
+
+
+
+</resources>
